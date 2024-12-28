@@ -1,0 +1,497 @@
+[
+  {
+    "prompt": "What’s your go-to karaoke song?",
+    "theirAnswer": "All of Arijit Singh’s hits!",
+    "suggestedReplies": [
+      "Arijit Singh? You’ve got great taste! Which song do you think is his most underrated?",
+      "Arijit is a vibe! Have you ever been to one of his concerts? It’s on my bucket list!"
+    ]
+  },
+  {
+    "prompt": "The best way to spend a Saturday is...",
+    "theirAnswer": "Hiking in the morning and binge-watching a series.",
+    "suggestedReplies": [
+      "Sounds like a perfect balance! What’s the last series you binge-watched?",
+      "I’m curious—what’s your go-to hiking spot? Maybe I need to check it out!"
+    ]
+  },
+  {
+    "prompt": "I’m known for...",
+    "theirAnswer": "Cooking the best biryani.",
+    "suggestedReplies": [
+      "The best biryani? Now that’s a claim! What’s your secret ingredient?",
+      "You had me at biryani! Hyderabadi or Lucknowi style?"
+    ]
+  },
+  {
+    "prompt": "Most spontaneous thing I’ve done...",
+    "theirAnswer": "Booked a trip to Goa last-minute with friends.",
+    "suggestedReplies": [
+      "Goa trips are the best! Beach shack hopping or fort exploring—what’s your vibe?",
+      "That sounds exciting! What’s your top recommendation for anyone going to Goa?"
+    ]
+  },
+  {
+    "prompt": "My simple pleasures...",
+    "theirAnswer": "A warm cup of chai on a rainy day.",
+    "suggestedReplies": [
+      "Chai and rain—perfect combo! Do you pair it with pakoras or biscuits?",
+      "That’s such a vibe! Are you more into ginger chai or masala chai?"
+    ]
+  },
+  {
+    "prompt": "A boundary of mine is...",
+    "theirAnswer": "No phones during dinner.",
+    "suggestedReplies": [
+      "That’s a great boundary! What’s your favorite kind of dinner conversation?",
+      "I love that! What’s a dinner tradition you’d love to start with someone special?"
+    ]
+  },
+  {
+    "prompt": "What’s your go-to karaoke song?",
+    "theirAnswer": "All of Arijit Singh’s hits!",
+    "suggestedReplies": [
+      "Arijit Singh? You’ve got great taste! Which song do you think is his most underrated?",
+      "Arijit is a vibe! Have you ever been to one of his concerts? It’s on my bucket list!"
+    ]
+  },
+  {
+    "prompt": "The best way to spend a Saturday is...",
+    "theirAnswer": "Hiking in the morning and binge-watching a series.",
+    "suggestedReplies": [
+      "Sounds like a perfect balance! What’s the last series you binge-watched?",
+      "I’m curious—what’s your go-to hiking spot? Maybe I need to check it out!"
+    ]
+  },
+  {
+    "prompt": "I’m known for...",
+    "theirAnswer": "Cooking the best biryani.",
+    "suggestedReplies": [
+      "The best biryani? Now that’s a claim! What’s your secret ingredient?",
+      "You had me at biryani! Hyderabadi or Lucknowi style?"
+    ]
+  },
+  {
+    "prompt": "Most spontaneous thing I’ve done...",
+    "theirAnswer": "Booked a trip to Goa last-minute with friends.",
+    "suggestedReplies": [
+      "Goa trips are the best! Beach shack hopping or fort exploring—what’s your vibe?",
+      "That sounds exciting! What’s your top recommendation for anyone going to Goa?"
+    ]
+  },
+  {
+    "prompt": "A boundary of mine is...",
+    "theirAnswer": "No phones during dinner.",
+    "suggestedReplies": [
+      "That’s a great boundary! What’s your favorite kind of dinner conversation?",
+      "I love that! What’s a dinner tradition you’d love to start with someone special?"
+    ]
+  },
+  {
+    "prompt": "The last book I read was...",
+    "theirAnswer": "The Alchemist by Paulo Coelho.",
+    "suggestedReplies": [
+      "The Alchemist is such a beautiful story! What part of the book resonated with you the most?",
+      "I loved that book too! Do you believe in the idea of ‘The Personal Legend’?"
+    ]
+  },
+  {
+    "prompt": "If I could live anywhere in the world, it would be...",
+    "theirAnswer": "Paris.",
+    "suggestedReplies": [
+      "Paris! I’ve always wanted to visit. What’s the first place you'd take me there?",
+      "That sounds dreamy. Are you into the art, the food, or both?"
+    ]
+  },
+  {
+    "prompt": "A perfect date would be...",
+    "theirAnswer": "Dinner by the beach at sunset.",
+    "suggestedReplies": [
+      "That sounds romantic! What’s your ideal beach destination for a date?",
+      "Dinner at sunset? Sounds amazing. Would you go for seafood or something else?"
+    ]
+  },
+  {
+    "prompt": "One thing I can’t live without is...",
+    "theirAnswer": "My phone.",
+    "suggestedReplies": [
+      "I totally get it. What’s the most used app on your phone?",
+      "Same here! What’s one thing you’d do without your phone for a day?"
+    ]
+  },
+  {
+    "prompt": "I’m really good at...",
+    "theirAnswer": "Photography.",
+    "suggestedReplies": [
+      "Photography is such an art! What’s your favorite subject to shoot?",
+      "I love photography! Do you prefer landscapes, portraits, or something else?"
+    ]
+  },
+  {
+    "prompt": "I’m most proud of...",
+    "theirAnswer": "Graduating with honors.",
+    "suggestedReplies": [
+      "That’s awesome! What was your major, and what did you enjoy the most?",
+      "Congrats! What was the toughest part of your academic journey?"
+    ]
+  },
+  {
+    "prompt": "If I could have dinner with anyone, dead or alive, it would be...",
+    "theirAnswer": "Steve Jobs.",
+    "suggestedReplies": [
+      "Steve Jobs would have fascinating insights! What’s one question you’d ask him?",
+      "He definitely changed the world. What’s your favorite product of his?"
+    ]
+  },
+  {
+    "prompt": "The most unusual food I’ve ever tried is...",
+    "theirAnswer": "Fried crickets.",
+    "suggestedReplies": [
+      "Fried crickets? How was that experience?",
+      "Wow, that’s adventurous! What did they taste like?"
+    ]
+  },
+  {
+    "prompt": "My favorite way to relax is...",
+    "theirAnswer": "Meditating by the beach.",
+    "suggestedReplies": [
+      "Meditation is such a peaceful way to unwind. How long do you usually meditate?",
+      "That sounds so calming! Do you prefer listening to nature sounds while meditating?"
+    ]
+  },
+  {
+    "prompt": "I’ve always wanted to try...",
+    "theirAnswer": "Skydiving.",
+    "suggestedReplies": [
+      "Skydiving sounds incredible! Have you looked into where you’d want to try it?",
+      "That’s on my bucket list too! What’s holding you back from trying it?"
+    ]
+  },
+  {
+    "prompt": "What makes me laugh uncontrollably is...",
+    "theirAnswer": "Stand-up comedy specials.",
+    "suggestedReplies": [
+      "Comedy specials are hilarious! Do you have a favorite comedian?",
+      "Stand-up is the best! What’s the funniest thing you’ve heard recently?"
+    ]
+  },
+  {
+    "prompt": "The best vacation I’ve been on was...",
+    "theirAnswer": "A road trip across the Himalayas.",
+    "suggestedReplies": [
+      "A road trip across the Himalayas sounds amazing! What was the highlight of the trip?",
+      "I’ve always wanted to do that! What’s the best time of year to go?"
+    ]
+  },
+  {
+    "prompt": "A hobby I’ve always wanted to pick up is...",
+    "theirAnswer": "Painting.",
+    "suggestedReplies": [
+      "Painting is such a creative outlet! What type of painting would you want to try?",
+      "I love painting too! Have you ever taken any classes or are you self-taught?"
+    ]
+  },
+  {
+    "prompt": "Something that always cheers me up is...",
+    "theirAnswer": "Listening to music.",
+    "suggestedReplies": [
+      "Music is a great mood lifter! What’s your go-to genre when you need cheering up?",
+      "I feel that! What’s the last song you listened to that made you smile?"
+    ]
+  },
+  {
+    "prompt": "If I could change one thing about myself, it would be...",
+    "theirAnswer": "To be more patient.",
+    "suggestedReplies": [
+      "Patience is a tough one! Have you tried any techniques to work on it?",
+      "That’s something I think a lot of people struggle with! How do you practice patience?"
+    ]
+  },
+  {
+    "prompt": "My ideal weekend involves...",
+    "theirAnswer": "Spending time outdoors and trying new foods.",
+    "suggestedReplies": [
+      "That sounds amazing! What’s the best food you’ve tried recently?",
+      "Outdoors and food—perfect combo! Where’s your favorite weekend getaway spot?"
+    ]
+  },
+  {
+    "prompt": "If I could meet any celebrity, it would be...",
+    "theirAnswer": "Deepika Padukone.",
+    "suggestedReplies": [
+      "Deepika is amazing! What would you talk to her about if you met her?",
+      "She’s a legend! What’s your favorite movie of hers?"
+    ]
+  },
+  {
+    "prompt": "One thing that can always brighten my day is...",
+    "theirAnswer": "A cup of coffee with friends.",
+    "suggestedReplies": [
+      "Coffee with friends is the best! Do you have a favorite coffee shop?",
+      "Nothing beats coffee with good company. Are you into fancy lattes or just a good old cup of filter coffee?"
+    ]
+  },
+  {
+    "prompt": "I’m a sucker for...",
+    "theirAnswer": "Romantic gestures.",
+    "suggestedReplies": [
+      "Romantic gestures are sweet! What’s the best one you’ve ever received?",
+      "I totally get that! What’s your idea of a perfect romantic gesture?"
+    ]
+  },
+  {
+    "prompt": "If I were to win the lottery, the first thing I’d do is...",
+    "theirAnswer": "Travel the world.",
+    "suggestedReplies": [
+      "That’s an awesome plan! What’s the first place you’d go to?",
+      "Traveling the world sounds amazing! What countries are on your bucket list?"
+    ]
+  },
+  {
+    "prompt": "My friends would describe me as...",
+    "theirAnswer": "Adventurous and spontaneous.",
+    "suggestedReplies": [
+      "I love that! What’s the most adventurous thing you’ve done recently?",
+      "That’s awesome! What’s one spontaneous thing you’ve done that you’ll never forget?"
+    ]
+  },
+  {
+    "prompt": "A movie that always makes me cry is...",
+    "theirAnswer": "The Pursuit of Happyness.",
+    "suggestedReplies": [
+      "That movie is so emotional! What part gets to you the most?",
+      "It’s such an inspiring film! What’s the most memorable lesson you took from it?"
+    ]
+  },
+  {
+    "prompt": "The last time I laughed so hard was...",
+    "theirAnswer": "Watching a funny YouTube video.",
+    "suggestedReplies": [
+      "YouTube has so many hilarious videos! What was the video about?",
+      "I love that! What’s the funniest video you’ve ever watched?"
+    ]
+  },
+  {
+    "prompt": "If I could have any superpower, it would be...",
+    "theirAnswer": "Teleportation.",
+    "suggestedReplies": [
+      "Teleportation would be amazing! Where’s the first place you’d teleport to?",
+      "That’s a powerful choice! Imagine never having to sit in traffic again!"
+    ]
+  },
+  {
+    "prompt": "My guilty pleasure is...",
+    "theirAnswer": "Watching reality TV.",
+    "suggestedReplies": [
+      "Reality TV is addictive! What’s your favorite show?",
+      "Guilty pleasures are the best! What makes you watch reality TV?"
+    ]
+  },
+  {
+    "prompt": "I’m most comfortable when...",
+    "theirAnswer": "I’m at home with a good book.",
+    "suggestedReplies": [
+      "That sounds cozy! What’s your current read?",
+      "A good book and comfort is perfect! Do you prefer fiction or non-fiction?"
+    ]
+  },
+  {
+    "prompt": "I’m happiest when...",
+    "theirAnswer": "I’m with my friends and family.",
+    "suggestedReplies": [
+      "Family and friends are the best! What’s your favorite activity to do with them?",
+      "That’s awesome! Do you have any family traditions you cherish?"
+    ]
+  },
+  {
+    "prompt": "One thing I’ve always wanted to learn is...",
+    "theirAnswer": "How to play the guitar.",
+    "suggestedReplies": [
+      "The guitar is such a beautiful instrument! Have you tried learning it already?",
+      "I love the guitar! What kind of music would you want to play?"
+    ]
+  },
+  {
+    "prompt": "What’s your favorite Indian festival and why?",
+    "theirAnswer": "Diwali. The lights and the festive spirit are amazing.",
+    "suggestedReplies": [
+      "Diwali is definitely a special time! What’s your favorite part of the celebrations?",
+      "I love Diwali too! Do you have any special family traditions during Diwali?"
+    ]
+  },
+  {
+    "prompt": "What’s your favorite Indian cuisine and your go-to dish?",
+    "theirAnswer": "South Indian. I love a good masala dosa.",
+    "suggestedReplies": [
+      "Masala dosa is a classic! Have you ever tried making it yourself?",
+      "South Indian food is the best! What’s your favorite place to get it in [their city]?"
+    ]
+  },
+  {
+    "prompt": "What’s your biggest pet peeve?",
+    "theirAnswer": "People who are late.",
+    "suggestedReplies": [
+      "I can relate! What’s the most memorable time you had to wait for someone?",
+      "Punctuality is important. Do you have any strategies for staying on time?"
+    ]
+  },
+  {
+    "prompt": "What’s your favorite Bollywood movie and why?",
+    "theirAnswer": "3 Idiots. It’s funny and inspiring.",
+    "suggestedReplies": [
+      "3 Idiots is a classic! What’s your favorite scene or dialogue?",
+      "I love that movie too! Do you think it accurately reflects Indian society?"
+    ]
+  },
+  {
+    "prompt": "What’s your dream travel destination in India?",
+    "theirAnswer": "Kerala. I want to experience the backwaters.",
+    "suggestedReplies": [
+      "Kerala is stunning! Have you ever been before?",
+      "The backwaters are on my bucket list too. What kind of activities would you do there?"
+    ]
+  },
+  {
+    "prompt": "What’s your favorite Indian dessert?",
+    "theirAnswer": "Gulab Jamun. It’s so sweet and comforting.",
+    "suggestedReplies": [
+      "Gulab Jamun is a timeless classic! Do you prefer it hot or cold?",
+      "I’m a big fan of Indian desserts too. Have you ever tried making your own Gulab Jamun?"
+    ]
+  },
+  {
+    "prompt": "What’s your favorite Indian tradition?",
+    "theirAnswer": "Celebrating festivals with family.",
+    "suggestedReplies": [
+      "Spending time with family during festivals is special. What’s your favorite festival to celebrate?",
+      "I love family traditions too. What’s a unique tradition your family has?"
+    ]
+  },
+  {
+    "prompt": "What’s your opinion on arranged marriages?",
+    "theirAnswer": "I’m open to the idea, but I also want to find someone on my own.",
+    "suggestedReplies": [
+      "That’s an interesting perspective. What are the pros and cons of arranged marriages in your opinion?",
+      "It’s great to have an open mind. What are your thoughts on the role of family in finding a partner?"
+    ]
+  },
+  {
+    "prompt": "What’s your take on dating in the digital age?",
+    "theirAnswer": "It can be both good and bad. It’s easier to meet people, but it can also be superficial.",
+    "suggestedReplies": [
+      "I agree, it’s a double-edged sword. What are some ways to make online dating more meaningful?",
+      "How do you think we can cut through the superficiality and find genuine connections online?"
+    ]
+  },
+  {
+    "prompt": "What’s your biggest fear?",
+    "theirAnswer": "Losing my loved ones.",
+    "suggestedReplies": [
+      "That’s understandable. How do you cope with that fear?",
+      "Family is important. What do you do to cherish the time you have with your loved ones?"
+    ]
+  },
+  {
+    "prompt": "What’s your favorite Indian music genre?",
+    "theirAnswer": "Bollywood music. I love the catchy tunes and the lyrics.",
+    "suggestedReplies": [
+      "Bollywood music is always upbeat! What’s your favorite Bollywood song right now?",
+      "Do you prefer classic Bollywood or more modern Bollywood music?"
+    ]
+  },
+  {
+    "prompt": "What’s your favorite Indian clothing style?",
+    "theirAnswer": "Sarees. They’re elegant and beautiful.",
+    "suggestedReplies": [
+      "Sarees are stunning! Have you ever learned how to drape one?",
+      "I love traditional Indian clothing too. What’s your favorite occasion to wear a saree?"
+    ]
+  },
+  {
+    "prompt": "What’s your opinion on the importance of family in Indian culture?",
+    "theirAnswer": "Family is extremely important in Indian culture. It’s the foundation of our lives.",
+    "suggestedReplies": [
+      "I completely agree. How do you think family values impact your life?",
+      "What are some ways to maintain strong family bonds in today’s world?"
+    ]
+  },
+  {
+    "prompt": "What’s your favorite Indian holiday?",
+    "theirAnswer": "Holi. I love the vibrant colors and the festive atmosphere.",
+    "suggestedReplies": [
+      "Holi is such a fun festival! Do you have any memorable Holi experiences?",
+      "I’ve always wanted to experience Holi. What can I expect?"
+    ]
+  },
+  {
+    "prompt": "What’s your favorite Indian snack?",
+    "theirAnswer": "Samosas. They’re crispy and delicious.",
+    "suggestedReplies": [
+      "Samosas are a classic! Do you prefer potato or vegetable samosas?",
+      "I’m a big fan of Indian snacks too. What’s your favorite place to get samosas?"
+    ]
+  },
+  {
+    "prompt": "What’s your favorite Indian historical figure?",
+    "theirAnswer": "Mahatma Gandhi. He was a true inspiration.",
+    "suggestedReplies": [
+      "Gandhiji’s teachings are still relevant today. What’s your favorite quote from him?",
+      "What do you think we can learn from Gandhiji’s life and legacy?"
+    ]
+  },
+  {
+    "prompt": "What’s your opinion on arranged marriages in the modern world?",
+    "theirAnswer": "I think they can work if both parties are open-minded and willing to give it a chance.",
+    "suggestedReplies": [
+      "That’s a balanced perspective. How do you think arranged marriages can be made more successful in today’s world?",
+      "Do you think arranged marriages can lead to happy and fulfilling relationships?"
+    ]
+  },
+  {
+    "prompt": "What’s your favorite Indian language?",
+    "theirAnswer": "Hindi. It’s widely spoken and I find it beautiful.",
+    "suggestedReplies": [
+      "Hindi is a beautiful language! Can you teach me a few basic Hindi phrases?",
+      "Do you speak any other Indian languages?"
+    ]
+  },
+  {
+    "prompt": "What’s your favorite Indian dance form?",
+    "theirAnswer": "Bharatanatyam. I find the grace and fluidity mesmerizing.",
+    "suggestedReplies": [
+      "Bharatanatyam is a beautiful art form. Have you ever seen a live performance?",
+      "What do you think makes Indian classical dance so special?"
+    ]
+  },
+  {
+    "prompt": "What’s your favorite Indian festival food?",
+    "theirAnswer": "Sweets! Especially during Diwali.",
+    "suggestedReplies": [
+      "Diwali sweets are the best! What’s your favorite?",
+      "Indian festivals are incomplete without delicious food. What’s your favorite festival food?"
+    ]
+  },
+  {
+    "prompt": "What’s your opinion on the role of technology in Indian culture?",
+    "theirAnswer": "Technology has both positive and negative impacts. It connects people but can also lead to isolation.",
+    "suggestedReplies": [
+      "That’s a thoughtful perspective. How can we use technology to strengthen our cultural connections?",
+      "What are some ways to use technology responsibly and maintain a healthy balance?"
+    ]
+  },
+  {
+    "prompt": "What’s your favorite Indian book?",
+    "theirAnswer": "The God of Small Things by Arundhati Roy.",
+    "suggestedReplies": [
+      "That’s a classic! What resonated with you the most in the book?",
+      "Have you read any other books by Arundhati Roy?"
+    ]
+  },
+  {
+    "prompt": "What’s your favorite Indian art form?",
+    "theirAnswer": "Madhubani paintings. I love the vibrant colors and intricate designs.",
+    "suggestedReplies": [
+      "Madhubani paintings are stunning! Have you ever tried creating your"
+    ]
+  }
+]
