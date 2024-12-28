@@ -1,7 +1,9 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { useState } from "react";
 import Select from "react-select";
 import { CopyToClipboard } from "react-copy-to-clipboard";
-import conversationStartersData from "./contents/conversationStarter.json";
+import conversationStartersData from "../../contents/conversationStarter.json";
+import "../globals.css";
 
 const ConversationStarters = () => {
   const conversationStarters: any = conversationStartersData;
@@ -66,7 +68,7 @@ const ConversationStarters = () => {
                   >
                     <span>{reply}</span>
                     <CopyToClipboard text={reply}>
-                      <button className="ml-2 text-blue-500 hover:text-blue-700">
+                      <button className="ml-2 text-blue-500 border p-2 rounded hover:text-blue-700">
                         Copy
                       </button>
                     </CopyToClipboard>

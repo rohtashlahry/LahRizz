@@ -1,11 +1,13 @@
-import { useState } from "react";
-import PromptReplies from "./PromptReplies";
-import ConversationStarters from "./ConversationStarter";
-import prompt from "./contents/prompts.json";
+"use client";
+import React, { useState } from "react";
+import PromptReplies from "./components/PromptReplies";
+import ConversationStarters from "./components/ConversationStarter";
+import prompt from "../contents/prompts.json";
 import { FaHome, FaPaperPlane, FaReply } from "react-icons/fa";
+import "./globals.css";
 
-export default function App() {
-  const [currentView, setCurrentView] = useState("home");
+export default function Home() {
+  const [currentView, setCurrentView] = useState<string>("home");
 
   const RenderHome = () => {
     return (

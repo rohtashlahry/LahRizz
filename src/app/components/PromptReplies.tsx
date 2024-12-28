@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { useState } from "react";
 import Select from "react-select";
 
@@ -26,7 +27,7 @@ const PromptReplies = ({ promptSuggestions }: any) => {
 
   return (
     <div className="w-screen max-w-md h-screen bg-gray-50 items-center py-10 px-4">
-      <h1 className="text-2xl font-bold text-green-600 mb-5">Prompt Replies</h1>
+      <h1 className="text-2xl font-bold text-green-600 mb-5">Prompt</h1>
 
       <Select
         options={Object.keys(promptSuggestions).map((item) => ({
@@ -49,7 +50,7 @@ const PromptReplies = ({ promptSuggestions }: any) => {
             >
               <p className="text-gray-700">{reply}</p>
               <button
-                className="text-blue-500 underline"
+                className="text-blue-500 underline border p-2 rounded"
                 onClick={() => handleCopy(reply)}
               >
                 Copy
